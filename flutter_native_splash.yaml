@@ -1,0 +1,6 @@
+flutter_native_splash:
+  # IOS & Android Below Android 12 (API 31 Level)
+  color: "#ffffff"
+  image: assets/images/splash.png
+
+  android_12:
