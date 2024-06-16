@@ -3,7 +3,7 @@ import 'package:flutter_advanced_project/core/theme/colors.dart';
 import 'package:flutter_advanced_project/core/theme/font_weight_helper.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
-class TextStyles {
+abstract class TextStyles {
   static TextStyle font32BlueBold = TextStyle(
     fontSize: 32.sp,
     fontWeight: FontWeightHelper.bold,
