@@ -33,6 +33,9 @@ dependencies:
   flutter_svg: ^2.0.10+1
   # For Adapting screen and font size.Guaranteed to look good on different models
   flutter_screenutil: ^5.9.3
+  # A Build system for Dart code generation and modular compilation
+  build_runner: ^2.4.11
+  flutter_secure_storage: ^4.2.1
 
 dev_dependencies:
   flutter_test:
