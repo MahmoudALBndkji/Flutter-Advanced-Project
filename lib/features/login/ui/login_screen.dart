@@ -3,8 +3,8 @@ import 'package:flutter_advanced_project/core/helpers/spacing.dart';
 import 'package:flutter_advanced_project/core/theme/styles.dart';
 import 'package:flutter_advanced_project/core/widgets/app_text_button.dart';
 import 'package:flutter_advanced_project/features/login/ui/widgets/dont_have_account_text.dart';
+import 'package:flutter_advanced_project/features/login/ui/widgets/email_and_password.dart';
 import 'package:flutter_advanced_project/features/login/ui/widgets/terms_and_conditions_text.dart';
-import 'package:flutter_advanced_project/features/login/widgets/email_and_password.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class LoginScreen extends StatefulWidget {
